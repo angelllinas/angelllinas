@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Angel Llinas</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h1 align="center">Hola 👋, me llamo Angel Llinas</h1>
+<h3 align="center">Me gusta el desarrollo web backend y la cultura del freesoftware</h3>
 <a href='#'><img src='https://i.postimg.cc/632T1CFY/cybercomputers.jpg'/></a>
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **AngelLlinas@protonmail.com**
+- 📫 Enviame un mensaje al correo **llinasangeldavid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
