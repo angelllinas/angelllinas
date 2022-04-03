@@ -3,7 +3,7 @@
 <a href='#'><img src='https://i.postimg.cc/632T1CFY/cybercomputers.jpg'/></a>
 - 🌱 I’m currently learning **Django**
 
-- 📫 Enviame un mensaje al correo **llinasangeldavid@gmail.com**
+- 📫 Enviame un mensaje al correo **AngelLlinas@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
