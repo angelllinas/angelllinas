@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, my name is Angel Llinas</h1>
-<h3 align="center">I like backend web development and open source culture in addition to servers and containers</h3>
+<h3 align="center">I like frontend and backend web development and open source culture in addition to servers and containers</h3>
 <a href='#'><img src='https://i.postimg.cc/632T1CFY/cybercomputers.jpg'/></a>
 - 🌱 I’m currently learning **Django**
 
