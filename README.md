@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, my name is Angel Llinas</h1>
 <h3 align="center">I like backend development, IOT and open source culture in addition to servers and containers</h3>
-<a href='#'><img src='https://i.postimg.cc/632T1CFY/cybercomputers.jpg'/></a>
+[![Hardcoding-Redshift-Study.png](https://i.postimg.cc/MTX3kPKd/Hardcoding-Redshift-Study.png)](https://postimg.cc/TLMJgcbD)
 - 🌱 I’m currently learning **Django**
 
 - 📫 Enviame un mensaje al correo **AngelLlinas@protonmail.com**
