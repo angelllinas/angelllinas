@@ -3,7 +3,7 @@
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MTX3kPKd/Hardcoding-Redshift-Study.png' border='0' alt='Hardcoding-Redshift-Study'/></a>
 - 🌱 I’m currently learning **Python**
 
-- 📫 Enviame un mensaje al correo **llinasangeldavid@gmail.com** o **AngelLlinas@protonmail.com**
+- 📫 Send me an email **llinasangeldavid@gmail.com** or **AngelLlinas@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
