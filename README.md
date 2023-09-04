@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://www.instagram.com/angeldllm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angeldllm" height="30" width="40" /></a>
 <a href="https://dev.to/adlm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adlm" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/258844/angel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="258844" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/258844/angel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/258844/angel" height="30" width="40" /></a>
 </p>
 
 
